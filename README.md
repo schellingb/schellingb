@@ -7,4 +7,4 @@ Welcome to my GitHub profile! These are some of the projects I have published he
 - [🖳 DOSBox Pure](//github.com/schellingb/dosbox-pure): A fork of DOSBox with user friendly enhancements like ZIP loading and automatic controller mapping
 - 📚 Open Source Libraries like [TinySoundFont](//github.com/schellingb/TinySoundFont), [c-data-structures](//github.com/schellingb/c-data-structures) or [DLLFromMemory-net](//github.com/schellingb/DLLFromMemory-net)
 
-You can also find me on  <a rel="me" href="https://mastodon.gamedev.place/@schelling">🐘 Mastodon</a> or [🐦 Twitter](https://twitter.com/B_Schelling)
+You can also find me on  <a rel="me" href="https://mastodon.gamedev.place/@schelling">🐘 Mastodon</a> or [🎮 Discord](https://discord.gg/BC6Mrb2aDa)
